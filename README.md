@@ -15,7 +15,7 @@ by Mahdi Haghifam, Jeffrey Negrea, Ashish Khisti, Daniel M Roy, Gintare Karolina
 
 We only consider the full-batch SGLD, i.e., LD, for simplicity here. 
 
-
+# Implementation Details
 
 This repository contains a compact simulation framework for **tracking and comparing generalization bounds during training** of neural networks on standard vision datasets.
 
