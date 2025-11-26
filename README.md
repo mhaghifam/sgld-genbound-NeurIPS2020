@@ -36,7 +36,7 @@ For a given dataset/model pair, the code:
 3. **Computes three bound estimates** alongside training:
    - **Incoherence-style bound** from [https://arxiv.org/abs/1911.02151]
    - **Gradient-norm bound** from [https://arxiv.org/abs/1902.00621]
-   - **Conditional Mutual Information (CMI) bound** from [https://arxiv.org/abs/2004.129]
+   - **Conditional Mutual Information (CMI) bound** from [[https://arxiv.org/abs/2004.129](https://arxiv.org/abs/2004.12983)]
 4. Repeats training across multiple random runs.
 5. Plots **mean ± std** of the estimated generalization curves.
 
