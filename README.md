@@ -23,7 +23,7 @@ Each dataset has:
 - a **main script** (`main-*.py`) that runs repeated experiments and plots results, and
 - a matching **bounds module** (`*_bounds.py`) that implements the training loop and the bound estimators.
 
- <img src="low-eps.jpg" width="100">  <img src="high-eps.jpg" width="100">  <img src="high-eps.jpg" width="100">  <img src="high-eps.jpg" width="100"> 
+ <img src="bound-cifar.jpg" width="100">  <img src="bound-fmnist.jpg" width="100">  <img src="high-eps.jpg" width="100">  <img src="high-eps.jpg" width="100"> 
 
 
 
