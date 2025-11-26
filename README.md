@@ -23,7 +23,7 @@ Each dataset has:
 - a **main script** (`main-*.py`) that runs repeated experiments and plots results, and
 - a matching **bounds module** (`*_bounds.py`) that implements the training loop and the bound estimators.
 
-The code is intentionally lightweight and easy to modify for new datasets or architectures.
+
 
 ---
 
